@@ -43,7 +43,7 @@ social:
   icon_pack: fab
   link: http://https://www.linkedin.com/in/julia-estrin/
 - icon: facebook
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.facebook.com/julia.estrin
 - icon: instagram
   icon_pack: fab
