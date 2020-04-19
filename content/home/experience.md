@@ -17,19 +17,19 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-# [[experience]]
-
-  # title = "Electrical Engineering Co-op"
-  # company = "Desktop Metal"
-  # company_url = "https://www.desktopmetal.com/"
-  # location = "Burlington, MA"
-  # date_start = "2019-06-01"
-  # date_end = "2019-12-01"
- # description = """A leader in metal 3D printing, reinventing the way metal parts are prototyped and manufactured"""
-  # Responsibilities include :
+[[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
   
- # * """Designed schematics and PCBs for the main printer board functional test fixture, creating an automated and error-free post manufacturing QA process"""
- # * """Provided electrical aid and guidance for six other projects across four mechanical and materials science teams"""
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
