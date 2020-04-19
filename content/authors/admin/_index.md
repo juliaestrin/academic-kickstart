@@ -48,6 +48,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/juliaestrin
+- icon: file
+  icon_pack: fab
+  link: "static/Resume_Julia_Estrin.pdf"
   
   
 # Link to a PDF of your resume/CV from the About widget.
