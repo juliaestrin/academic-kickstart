@@ -24,7 +24,7 @@ interests:
 - Electrical Engineering 
 - Baking
 - Cycling
--Fucking 
+- Fucking 
 
 education:
   courses:
