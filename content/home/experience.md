@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Electrical Engineering Co-op FUCKKKKKKK"
+  title = "Electrical Engineering Co-op"
   company = "Desktop Metal"
   company_url = "www.desktopmetal.com"
   location = "Boston, MA"
