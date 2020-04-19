@@ -24,6 +24,7 @@ interests:
 - Electrical Engineering 
 - Baking
 - Cycling
+-Fucking 
 
 education:
   courses:
@@ -49,7 +50,7 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/juliaestrin
 - icon: file
-  icon_pack: fab
+  icon_pack: fas
   link: "static/Resume_Julia_Estrin.pdf"
   
   
