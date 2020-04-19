@@ -49,8 +49,8 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/juliaestrin
-- icon: file
-  icon_pack: fas
+- icon: cv
+  icon_pack: ai
   link: "static/Resume_Julia_Estrin.pdf"
   
   
