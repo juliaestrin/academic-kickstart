@@ -22,14 +22,13 @@ date_format = "Jan 2006"
   company = "Desktop Metal"
   company_url = "https://www.desktopmetal.com/"
   location = "Burlington, MA"
-  date_start = "2019-01-06"
-  date_end = ""
-  description = """
+  date_start = "2019-06-01"
+  date_end = "2019-12-01"
+  description = "A leader in metal 3D printing, reinventing the way metal parts are prototyped and manufactured"
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Designed schematics and PCBs for the main printer board functional test fixture, creating an automated and error-free post manufacturing QA process 
+  * Provided electrical aid and guidance for six other projects across four mechanical and materials science teams
   """
 
 [[experience]]
