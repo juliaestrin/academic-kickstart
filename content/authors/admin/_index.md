@@ -70,3 +70,4 @@ user_groups:
 ---
 
 My name is Julia and I am an undergradute at Northeastern University studying Electrical and Computer Engineering. My passion for engineering is two fold - the thrill of analytical problem solving and the potential to propel the sustainable development agenda. Through this website, I plan to share the projects I have worked on as well as a little about my personal life. 
+
