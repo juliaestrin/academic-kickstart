@@ -1,9 +1,9 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Engineering World Health Summer Institute 
+summary: The summer of 2018, I travelled to Rwanda to work as a biomedical engineering technician. 
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Engineering
+date: "2020-04-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
