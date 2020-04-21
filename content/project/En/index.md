@@ -9,7 +9,7 @@ date: "2020-04-21T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: On the first day at Rubavu District Hospital, Arya and I installed new whiteboards in Materninty. 
   focal_point: Smart
 
 links:
