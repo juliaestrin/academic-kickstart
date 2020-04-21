@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Electrical and Computer Engineering, BS
+role: Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,8 @@ bio: Welcome to my website! Here I will be posting about my life!
 
 interests:
 - Electrical Engineering 
-- Baking
-- Cycling
-- Fucking 
+- Triathalon 
+- Baking 
 
 education:
   courses:
@@ -70,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am super cool yo 
+My name is Julia and I am an undergradute at Northeastern University studying Electrical and Computer Engineering. My passion for engineering is two fold - the thrill of analytical problem solving and the potential to propel the sustainable development agenda. Through this website, I plan to share the projects I have worked on as well as a little about my personal life. 
