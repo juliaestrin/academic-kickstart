@@ -50,7 +50,7 @@ social:
   link: https://www.instagram.com/juliaestrin
 - icon: cv
   icon_pack: ai
-  link: "static/Resume_Julia_Estrin.pdf"
+  link: 'static/Resume_Julia_Estrin.pdf'
   
   
 # Link to a PDF of your resume/CV from the About widget.
