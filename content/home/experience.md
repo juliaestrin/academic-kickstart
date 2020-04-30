@@ -21,53 +21,45 @@ date_format = "Jan 2006"
   title = "Electrical Engineering Co-op"
   company = "Desktop Metal"
   company_url = "www.desktopmetal.com"
-  location = "Boston, MA"
+  location = "Burlington, MA"
   date_start = "2019-06-01"
   date_end = "2019-12-01"
   description = """
-  Responsibilities include:
   
+  * Formulated logical function in Verilog and initialized hardware for an FPGA to execute digital signal processing, increasing metal printer speed 
+  * Constructed external add-on device for quick implementation of FPGA code to existing system
   * Designed schematics and PCBs for the main printer voard functional test fixture, creating an automated and error-free post manufacturing QA process
-  * Provid electrical aid and guidance for six other projects across four mechanical and materials science teams
+  
   """
   
   [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Biomedical Engineering Technician"
+  company = "Rubavu District Hospital"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Gisenyi, Rwanda"
+  date_start = "2018-06-01"
+  date_end = "2018-08-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-  
-  [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
+  * Performed electrical/mechanical repairs to return more than 30 pieces of medical equipment to service 
+  * Salvaged discarded equipment and household items to create an infant transport incubator in NICU with higher than average mortality rates, reducing hypothermia rates and vibrational trauma
+  * Sourced and obtained oxygen regulators, decreasing neonatal mortality due to hypoxia
+  * Designed and implemented a straightforward identification system for fill-level of oxygen cylinders
+  """
+  
+  [[experience]]
+  title = "Build Studio Engineer"
+  company = "Generate Product Development Studio"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Boston, MA"
+  date_start = "2020-01-01"
+  date_end = "2020-05-01"
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 +++
