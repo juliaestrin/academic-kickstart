@@ -21,7 +21,8 @@ organizations:
 bio: Welcome to my website! Here I will be posting about my life! 
 
 interests:
-- Electrical Engineering 
+- Sustainable Development 
+- Engineering 
 - Triathalon 
 - Baking 
 
@@ -50,7 +51,7 @@ social:
   link: https://www.instagram.com/juliaestrin
 - icon: cv
   icon_pack: ai
-  link: 'static/Resume_Julia_Estrin.pdf'
+  link: "static/Resume_Julia_Estrin.pdf"
   
   
 # Link to a PDF of your resume/CV from the About widget.
