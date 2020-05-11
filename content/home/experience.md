@@ -46,20 +46,5 @@ date_format = "Jan 2006"
   * Sourced and obtained oxygen regulators, decreasing neonatal mortality due to hypoxia
   * Designed and implemented a straightforward identification system for fill-level of oxygen cylinders
   """
-  
-  [[experience]]
-  title = "Build Studio Engineer"
-  company = "Generate Product Development Studio"
-  company_url = ""
-  location = "Boston, MA"
-  date_start = "2020-01-01"
-  date_end = "2020-05-01"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 +++
