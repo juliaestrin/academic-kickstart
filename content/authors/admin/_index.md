@@ -21,10 +21,9 @@ organizations:
 bio: Welcome to my website! Here I will be posting about my life! 
 
 interests:
+- Power Electronics 
 - Sustainable Development 
-- Engineering 
-- Triathalon 
-- Baking 
+- Triathlon
 
 education:
   courses:
@@ -39,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:juliaestrin3@gmail.com".
+  link: 'mailto:juliaestrin3@gmail.com'  # For a direct email link, use "mailto:juliaestrin3@gmail.com".
 - icon: linkedin
   icon_pack: fab
   link: http://https://www.linkedin.com/in/julia-estrin/
@@ -65,10 +64,10 @@ email: "juliaestrin3@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+# ---
 
-My name is Julia and I am an undergradute at Northeastern University studying Electrical and Computer Engineering. My passion for engineering is two fold - the thrill of analytical problem solving and the potential to propel the sustainable development agenda. Through this website I plan to share the projects I have worked on as well as a little about my personal life. 
+I am currently in my final year at Northeastern University studying Electrical and Computer Engineering. My passion for engineering is two fold - the thrill of analytical problem solving and the potential to propel the sustainable development agenda. Through this website, I plan to share the projects I have worked on as well as a little about my personal life. 
 
