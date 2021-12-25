@@ -32,7 +32,5 @@ slides: "example-slides"
 
 The summer of 2019 I travelled to Rwanda to work as train as a Biomedical Engineering Technition.
 
-![Getting Started](IMG_2965.jpeg)
-
 < figure library="true" src="image.jpge" title="A caption" lightbox="true" >
 ---
