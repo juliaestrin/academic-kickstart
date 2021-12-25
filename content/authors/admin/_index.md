@@ -64,10 +64,10 @@ email: "juliaestrin3@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-# ---
+user_groups:
+- Researchers
+- Visitors
+---
 
 I am currently in my final year at Northeastern University studying Electrical and Computer Engineering. My passion for engineering is two fold - the thrill of analytical problem solving and the potential to propel the sustainable development agenda. Through this website, I plan to share the projects I have worked on as well as a little about my personal life. 
 
